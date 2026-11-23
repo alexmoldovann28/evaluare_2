@@ -1,0 +1,72 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #222222;
+    margin: 20px;
+}
+
+#sectiune-date-personale {
+    background-color: #ff6600;
+    color: #ffffff;
+    text-align: left;
+    padding: 20px;
+	border-radius: 10px;
+	border: 2px solid #cc5200;
+}
+#container-imagini {
+    text-align: center;
+}
+
+#tabel {
+    background-color: #eef9ee;
+    padding: 20px;
+	border-radius: 10px;
+}
+
+#sectiune-galerie, #sectiune-retea {
+    background-color: #eef9ee;
+    padding: 20px;
+    margin-top: 10px;
+	border-radius: 10px;
+}
+
+table {
+    width: 80%;
+    border-collapse: collapse;
+    margin: 15px auto;
+	border-radius: 10px;
+}
+
+th {
+    background-color: #0066cc;
+    color: #ffffff;
+    border: 1px solid #cccccc;
+    padding: 10px;
+}
+
+td {
+    border: 1px solid #cccccc;
+    padding: 8px;
+	background-color: #ffffff;
+}
+
+.poza-galerie {
+    width: 300px;
+    border-radius: 12px;
+    margin: 5px;
+}
+
+.poza-diagrama {
+    width: 450px;
+    border-radius: 12px;
+    opacity: 0.85;
+	border: 2px dotted #333333;
+}
+.diagrama {
+    text-align: center;
+}
+
+.lista-retea {
+    list-style-type: none;
+    padding-left: 0;
+}
+
